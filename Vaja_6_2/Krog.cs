@@ -32,7 +32,15 @@ namespace Vaja_6_2
             }
         }
 
+        public double Obseg()
+        {
+            return 2 * Math.PI * r;
+        }
 
+        public double Ploscina()
+        {
+            return Math.PI * r * r;
+        }
 
 
     }
