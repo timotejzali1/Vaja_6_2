@@ -22,5 +22,11 @@ namespace Vaja_6_2
             this.a = a;
             this.b = b;
         }
+
+        public void Nastavi(double a, double b)
+        {
+            this.a = a;
+            this.b = b;
+        }
     }
 }
