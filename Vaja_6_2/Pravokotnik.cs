@@ -28,5 +28,15 @@ namespace Vaja_6_2
             this.a = a;
             this.b = b;
         }
+
+        public double Obseg()
+        {
+            return 2 * (a + b);
+        }
+
+        public double Ploscina()
+        {
+            return a * b;
+        }
     }
 }
