@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Vaja_6_2
 {
@@ -10,6 +6,11 @@ namespace Vaja_6_2
     {
         static void Main(string[] args)
         {
+            Pravokotnik pravokotnik1 = new Pravokotnik(3, 3);
+            Pravokotnik pravokotnik2 = new Pravokotnik(6, 4);
+
+            Console.WriteLine("Rectangle 1 area: " + pravokotnik1.Ploscina());
+            Console.WriteLine("Rectangle 2 area: " + pravokotnik2.Ploscina());
         }
     }
 }
