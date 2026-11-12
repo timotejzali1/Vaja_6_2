@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9322ADF0-5F04-4913-915A-31924A4EC44D}</ProjectGuid>
+    <ProjectGuid>{2E2D6111-BEDC-3803-D023-CA4C7D97E1AE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Vaja_6_2</RootNamespace>
     <AssemblyName>Vaja_6_2</AssemblyName>
