@@ -10,6 +10,7 @@ namespace Vaja_6_2
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
