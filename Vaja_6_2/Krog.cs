@@ -19,5 +19,21 @@ namespace Vaja_6_2
         {
             this.r = r;
         }
+
+        public void NastaviR(int novR)
+        {
+            if (novR > 0)
+            {
+                r = novR;
+            }
+            else
+            {
+                Console.WriteLine("Polmer mora biti pozitivno število.");
+            }
+        }
+
+
+
+
     }
 }
