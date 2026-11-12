@@ -8,6 +8,7 @@ namespace Vaja_6_2
 {
     internal class Pravokotnik
     {
-
+        private double a;
+        private double b;
     }
 }
