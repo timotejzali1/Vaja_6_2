@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="readme.md" />
+  </Folder>
   <Project Path="Vaja_6_2/Vaja_6_2.csproj" Id="9322adf0-5f04-4913-915a-31924a4ec44d" />
 </Solution>
