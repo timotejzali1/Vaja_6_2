@@ -6,6 +6,10 @@ namespace Vaja_6_2
     {
         static void Main(string[] args)
         {
+            Pit_Trikotnik t = new Pit_Trikotnik(6, 8);
+
+            Console.WriteLine("Ploscina trikotnika je:" + t.Ploscina());
+
             Krog krog1 = new Krog(5);
 
             Krog krog2 = new Krog();

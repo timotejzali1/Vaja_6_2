@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Krog.cs" />
     <Compile Include="Pravokotnik.cs" />
+    <Compile Include="Pit_Trikotnik.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
